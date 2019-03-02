@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D1A397F5-109F-00B7-1475-BF2B4D984299}") = "Missile Attack", "Assembly-CSharp.csproj", "{6FF0205E-C5ED-260F-999B-27AFD55F66CE}"
+EndProject
+Project("{D1A397F5-109F-00B7-1475-BF2B4D984299}") = "Missile Attack", "Assembly-CSharp-Editor.csproj", "{9FC15521-EB20-D7C8-EF52-3DD7AB0C98A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF0205E-C5ED-260F-999B-27AFD55F66CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF0205E-C5ED-260F-999B-27AFD55F66CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF0205E-C5ED-260F-999B-27AFD55F66CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF0205E-C5ED-260F-999B-27AFD55F66CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC15521-EB20-D7C8-EF52-3DD7AB0C98A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC15521-EB20-D7C8-EF52-3DD7AB0C98A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC15521-EB20-D7C8-EF52-3DD7AB0C98A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC15521-EB20-D7C8-EF52-3DD7AB0C98A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
